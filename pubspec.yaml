@@ -108,6 +108,7 @@ flutter:
     - "assets/OnBoardingMarkdown.png"
     - "assets/OnBoardingGitProviders.png"
     - "assets/langs/en.yaml"
+    - "assets/langs/ja.yaml"
   fonts:
     - family: Lato
       fonts:
